@@ -1,18 +1,9 @@
-# 👋 Welcome to Vision CSE  
-
-This repository is for the **15 Days of Code Challenge** organized by **Vision CSE** 🚀  
-
-## 📌 About the Challenge
-- Duration: **15 Days**
-- Goal: Code every day and build consistency  
-- Task: Fork this repository, and update your progress here!  
-
-## ✅ How to Participate
-1. **Fork** this repository.  
-2. **Edit this README** file in your fork.  
-3. Document your progress daily:  
-   - Add a short note on what you did  
-   - Attach screenshots or  
-   - Add links to your code submissions/projects  
-
-4. Keep pushing your changes every day!  
+Day 1
+Q1 - [https://codeforces.com/problemset/submission/1853/343728304]
+Q2 - [https://codeforces.com/contest/1857/submission/343726865]
+Q3 - [https://codeforces.com/contest/1862/submission/343669122]
+q4 - [https://codeforces.com/contest/1862/submission/343669122]
+Q5 - [https://codeforces.com/contest/1866/submission/343592952]
+Q6- [https://codeforces.com/contest/1873/submission/343592199]
+Q7 - [https://codeforces.com/contest/1877/submission/343583806]
+Q8 - [https://codeforces.com/contest/1878/submission/343578841]
