@@ -1,4 +1,4 @@
-Day 1
+Day 1  
 Q1 - [https://codeforces.com/problemset/submission/1853/343728304]  
 Q2 - [https://codeforces.com/contest/1857/submission/343726865]  
 Q3 - [https://codeforces.com/contest/1862/submission/343669122]  
